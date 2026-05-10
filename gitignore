@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+token_cache.json
+uploads/
+*.db
+.env
